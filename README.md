@@ -16,7 +16,7 @@ No more manual checking – just enter your **pincode** and the bot will notify 
 ---
 
 ## 🚀 Usage
-1. Download the latest release from **[Releases](releases/download/V1.0/)**  
+1. Download the latest release from **[Releases](https://github.com/vickythegamer/BlinkWheelsWatcher/releases/tag/V1.0)**  
 2. Run the `BlinkWheelsWatcher.exe` file  
 3. Enter your **Telegram bot token** and pincode  
 4. Relax – you’ll get alerts whenever stock is available 🎉  
